@@ -1,5 +1,4 @@
-# ddnfusion
-DDNFusion: A Hybrid Decomposition Dynamic Network for Infrared and Visible Image Fusion
+# DDNFusion: A Hybrid Decomposition Dynamic Network for Infrared and Visible Image Fusion
 
 # We sincerely appreciate your interest and support. The README will be further improved after acceptance.
 
