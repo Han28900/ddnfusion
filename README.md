@@ -28,7 +28,7 @@ Cross-modal image fusion results of the tested methods on the RoadScene dataset.
 
 <table>
 <caption>
-## Quantitative metrics of various methods on the TNO dataset. Bold indicates the best results.
+- Quantitative metrics of various methods on the TNO dataset. Bold indicates the best results.
 </caption>
 
 <thead>
@@ -171,7 +171,7 @@ Cross-modal image fusion results of the tested methods on the RoadScene dataset.
 
 <table>
 <caption>
-## Quantitative metrics of various methods on the RoadScene dataset. Bold indicates the best results.
+- Quantitative metrics of various methods on the RoadScene dataset. Bold indicates the best results.
 </caption>
 
 <thead>
@@ -312,5 +312,5 @@ Cross-modal image fusion results of the tested methods on the RoadScene dataset.
 </table>
 
 ## Contact Information
-Email: hanmingyue@xynu.edu.cn
+- Email: hanmingyue@xynu.edu.cn
 
