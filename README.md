@@ -1,13 +1,15 @@
 # ddnfusion
 DDNFusion: A Hybrid Decomposition Dynamic Network for Infrared and Visible Image Fusion
 
-Datasets
+## Datasets
 Our data comes from the public datasets TNO, RoadScene and MSRS, which can be obtained from the following links:
 TNO: https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029
+
 RoadScene: https://github.com/jiayi-ma/RoadScene
+
 MSRS:https://github.com/Linfeng-Tang/MSRS
 
-Experiments
+## Experiments
 Cross-modal image fusion results of the tested methods on the TNO dataset.
 <img width="3128" height="2039" alt="Fig6_01" src="https://github.com/user-attachments/assets/7439a492-f464-42cb-9539-e2b02832c38c" />
 
