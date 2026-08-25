@@ -4,12 +4,9 @@
 
 ## Datasets
 Our data comes from the public datasets TNO, RoadScene and MSRS, which can be obtained from the following links:
-
-TNO: https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029
-
-RoadScene: https://github.com/jiayi-ma/RoadScene
-
-MSRS:https://github.com/Linfeng-Tang/MSRS
+- TNO: https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029
+- RoadScene: https://github.com/jiayi-ma/RoadScene
+- MSRS:https://github.com/Linfeng-Tang/MSRS
 
 ## Environment Settings
 Our code is tested under the following environment:
@@ -28,7 +25,7 @@ Cross-modal image fusion results of the tested methods on the RoadScene dataset.
 
 <table>
 <caption>
-- Quantitative metrics of various methods on the TNO dataset. Bold indicates the best results.
+Quantitative metrics of various methods on the TNO dataset. Bold indicates the best results.
 </caption>
 
 <thead>
@@ -171,7 +168,7 @@ Cross-modal image fusion results of the tested methods on the RoadScene dataset.
 
 <table>
 <caption>
-- Quantitative metrics of various methods on the RoadScene dataset. Bold indicates the best results.
+Quantitative metrics of various methods on the RoadScene dataset. Bold indicates the best results.
 </caption>
 
 <thead>
