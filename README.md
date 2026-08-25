@@ -1,6 +1,6 @@
 # DDNFusion: A Hybrid Decomposition Dynamic Network for Infrared and Visible Image Fusion
 
-# We sincerely appreciate your interest and support. The README will be further improved after acceptance.
+## We sincerely appreciate your interest and support. The README will be further improved after acceptance.
 
 ## Datasets
 Our data comes from the public datasets TNO, RoadScene and MSRS, which can be obtained from the following links:
